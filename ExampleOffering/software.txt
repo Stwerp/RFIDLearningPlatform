@@ -1,0 +1,17 @@
+This course used:
+
+1) MATLAB
+However, it would not be difficult to replace the MATLAB items with Python/Matplotlib for an open source offering
+
+2) SimSmith
+This is free Java application that is very useful in visualizing matching networks.
+
+3) AWR Design Environment
+AWR currently runs an excellent option for educational institutions. Other simulation software could be used as well. The tool was used to simulate a) planar antennas and generate far-field patterns and S11 impedances and b) to run harmonic balance simulations of diode-based power harvesting / rectification.
+
+4) TI CCS
+Freely available from TI and used to program and debug the MSP430 microcontrollers.
+
+5) BladeRF (hardware and software)
+This was used as a quick way to generate a variety of frequencies and test performance of antennas and the logarithmic amplifier
+
