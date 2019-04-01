@@ -1,0 +1,21 @@
+A list of papers to be presented. I gave students an example of a 10-15 minute presentation of a paper that modeled my expectations from the student. I urged them to critically think and look for things the papers could consider further, or that need to be further explained. I want students to have some fluency with the literature after this course.
+
+
+
+Design of a Passively-Powered, Programmable Sensing Platform for UHF RFID
+by Sample, Yeager, Powledge, Smith
+
+Experimental Results with two Wireless Power Transfer Systems
+by Sample and Smith
+
+Harvesting Wireless Power
+by Valenta and Durgin
+
+Wirelessly-Charged UHF Tags for Sensor Data Collection
+by Yeager, Powledge, Prasad, Wetherall and Smith
+
+Passive Tag-to-Tag Communication
+by Nikitin, Ramamurthy, Martinez and Rao
+
+Ambient Backscatter: Wireless Communication Out of Thin Air
+by Liu, Parks, Talla, Gollakota, Wetherall and Smith
