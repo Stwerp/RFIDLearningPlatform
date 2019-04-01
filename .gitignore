@@ -1,0 +1,8 @@
+*.aux
+*.log
+*.DS_Store
+*~
+*.synctex.gz
+*eps-converted-to.pdf
+*.out
+# ignore these, just update them manually
