@@ -1,17 +1,20 @@
-Course: ECE 490-ST Wireless Computing
+#Course: 
+ECE 490-ST Wireless Computing
 
-Pre/Corequisite: Signals and Systems and Embedded Microcontrollers
+#Pre/Corequisite:
+* Signals and Systems and Embedded Microcontrollers
+
 These items were assigned as pre or co-requisities to the course with a goal that students have an idea of the frequency domain and the basics of programming a microcontroller. This would allow a junior to take this course. In schools that include microcontroller programming earlier in the curriculum, students may be equipped to take this course in their second year.
 
-Course Description:
+#Course Description:
 Introduction to emerging field of wireless computing. Topics will include the basics of RF engineering, wireless power transfer, low-power operation of microcontrollers.
 
-Textbook:
+#Textbook:
 This offering used [D. Dobkin, "The RF in RFID", 2nd Edition] as a textbook. It was required, but most students reported not using the book as a reference.
 
 This offering also required that students have an MSP430 Launchpad. This tool, alongside Texas Instruments' CCS software, was used as a programming and debugging interface for the wiresless boards.
 
-Objectives:
+#Instructional Objectives:
 After successful completion of this course, you should be able to:
 1. Describe the key features of an RFID system and how they differ from traditional communication systems.
 2. Draw and use a Smith Chart to aid in engineering decisions.
@@ -21,7 +24,7 @@ After successful completion of this course, you should be able to:
 6. Design low-power microcontroller programs.
 7. Build a battery-free device.
 
-Grading:
+## Grading:
 Homework ... 20%
 Class Project ... 30%
 Midterm Exam ... 25%
